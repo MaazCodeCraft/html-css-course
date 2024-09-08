@@ -1,0 +1,39 @@
+
+  .Get_Started {
+    background-color: rgb(121, 82, 179);
+    color: white;
+    border: none;
+    cursor: pointer;
+    border-radius: 3px;
+    font-weight: bold;
+    margin-right: 5px;
+    transition: background-color 0.15s;
+    padding-top: 12px;
+    padding-bottom: 12px;
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+  .Get_Started:hover{
+    background-color: rgb(99, 60, 156);
+  }
+
+.Download {
+  background-color: white;
+  color:  rgb(108, 117, 125);
+  border-color:  rgb(108, 117, 125);
+  border-width: 1px;
+  border-style: solid;
+  cursor: pointer;
+  border-radius: 3px;
+  font-weight: bold;
+  transition: background-color 0.15s,
+  color 0.15s;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 17px;
+  padding-right: 17px;
+}
+.Download:hover{
+  background-color:rgb(108, 117, 125);
+  color: white;
+}

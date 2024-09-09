@@ -1,0 +1,26 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  text-align: center;
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+
+.shopping{
+  font-size: 25px;
+  font-weight: bold;
+  margin-bottom: 20px;
+  margin-top: 20px;
+}
+
+.work{
+  font-size: 14px;
+  margin-bottom: 20px;
+}
+
+.learn{
+  color: rgb(58, 108, 199);
+  cursor: pointer;
+}
+.learn:hover{
+  text-decoration: underline;
+}

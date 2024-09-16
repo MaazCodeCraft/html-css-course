@@ -1,4 +1,7 @@
-**1a.**![Screenshot 2024-09-16 102810](https://github.com/user-attachments/assets/ad240ef8-bef9-4b08-9413-9ae4881db2c6)
+**1a.**
+
+
+![Screenshot 2024-09-16 102810](https://github.com/user-attachments/assets/ad240ef8-bef9-4b08-9413-9ae4881db2c6)
 ________________________________________________________________________________________________________________
 **1b.**
 ![Screenshot 2024-09-16 102827](https://github.com/user-attachments/assets/d6c67fc2-1c3c-4209-ade8-455c60866748)

@@ -1,0 +1,36 @@
+p{
+  font-family: Arial, Helvetica, sans-serif;
+  color: rgb(100, 100, 100);
+  margin-top: 0px;
+  margin-bottom: 0px;
+}
+.email{
+  font-size: 14px;
+  margin-bottom: 12px;
+}
+.search_bar{
+  width: 400px;
+  border-color: rgb(100, 100, 100);
+  border-width: 2px;
+  border-style: solid;
+  border-radius: 3px;
+  font-size: 15px;
+  padding-top: 7px;
+  padding-bottom: 7px;
+  margin-bottom: 20px;
+}
+.join{
+  margin-bottom: 20px;
+}
+
+.agree{
+  background-color: rgb(10, 102, 194);
+  border: none;
+  color: white;
+  padding-bottom: 18px;
+  padding-top: 18px;
+  border-radius: 30px;
+  font-size: 22px;
+  width: 400px;
+  cursor: pointer;
+}

@@ -1,0 +1,8 @@
+.review{
+  width: 200px;
+  vertical-align: middle;
+  display: inline-block;
+}
+button{
+  cursor: pointer;
+}

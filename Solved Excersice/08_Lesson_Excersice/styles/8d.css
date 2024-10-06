@@ -1,0 +1,43 @@
+input{
+  font-size: 16px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  padding-left: 16px;
+  padding-right: 16px;
+  border-radius: 8px;
+  border-color: rgb(200, 200, 200);
+  border-width: 1px;
+  border-style: solid;
+  margin-bottom: 12px;
+}
+
+.first_name{
+  width: 150px;
+}
+
+.last_name{
+  width: 150px;
+}
+
+.email{
+  width: 340px;
+  display: block;
+}
+.sign_up{
+  background-color: rgb(47, 127, 231);
+  border: none;
+  color: white;
+  font-weight: bold;
+  font-size: 15px;
+  padding-top: 14px;
+  padding-bottom: 14px;
+  border-radius: 30px;
+  width: 370px;
+  transition: background-color 0.25s;
+}
+.sign_up:hover{
+    background-color: rgb(94, 148, 218);
+}
+.sign_up:active{
+  opacity: 0.7;
+}
